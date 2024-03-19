@@ -20,3 +20,5 @@ Se nos explican las técnicas, los elementos y los artefactos empleados en la co
 # Proyecto de app
 ## Sebastian Mejia
 Se nos ha explicado cómo es la toma de requerimientos al momento de crear una aplicación para un cliente.
+
+[práctica 8](/practica-8.md)
