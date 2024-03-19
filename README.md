@@ -16,3 +16,7 @@ Conocemos los principios, técnicas y campos de aplicación del diseño gráfico
 # Diseño de Videojuegos
 ## Hector Guerrero
 Se nos explican las técnicas, los elementos y los artefactos empleados en la concepción de un videojuego
+
+# Proyecto de app
+## Sebastian Mejia
+Se nos ha explicado cómo es la toma de requerimientos al momento de crear una aplicación para un cliente.
