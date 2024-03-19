@@ -12,3 +12,7 @@ En la clase de programación en lenguajes interpretados se nos enseña  el desar
 # principios de composición y diseño
 ## Roberto Melo
 Conocemos los principios, técnicas y campos de aplicación del diseño gráfico y la composición, y ser capaz de aplicarlas mediante las herramientas adecuadas en soporte digital para resolver problemas visuales y diseñar interfaces gráficas efectivas que transmitan
+
+# Diseño de Videojuegos
+## Hector Guerrero
+Se nos explican las técnicas, los elementos y los artefactos empleados en la concepción de un videojuego
